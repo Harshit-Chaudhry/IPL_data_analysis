@@ -12,3 +12,9 @@ Create virtual env:-
 python -m venv .venv    # Creating virtual env
 source .venv/Scripts/activate   # Activate virtual virtual env
 
+POsting Code  to github
+
+git init
+git add .
+git commit -m "Ur mssg"
+git push -u orighin main
