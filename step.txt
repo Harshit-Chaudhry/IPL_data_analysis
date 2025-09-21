@@ -1,0 +1,14 @@
+Make Repo on github
+
+Choose gitignore file :- Python
+
+Open terminal :-
+
+Git clone "ur repo link"
+cd "directory name "
+
+Create virtual env:-
+
+python -m venv .venv    # Creating virtual env
+source .venv/Scripts/activate   # Activate virtual virtual env
+
